@@ -15,7 +15,7 @@ ARG PYTHON3_NUMPY_VERSION="1:1.26.4+ds-6ubuntu1"
 ARG PYTHON3_PIP_VERSION="24.0+dfsg-1ubuntu1.3"
 
 # renovate: datasource=repology depName=ubuntu_24_04/pillow versioning=loose
-ARG PYTHON3_PIL_VERSION="10.2.0-1ubuntu1"
+ARG PYTHON3_PIL_VERSION="10.2.0-1ubuntu1.3"
 
 # renovate: datasource=repology depName=ubuntu_24_04/python3-scipy versioning=loose
 ARG PYTHON3_SCIPY_VERSION="1.11.4-6build1"
