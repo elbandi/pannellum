@@ -15,7 +15,7 @@ ARG PYTHON3_NUMPY_VERSION="1:1.26.4+ds-6ubuntu1"
 ARG PYTHON3_PIP_VERSION="24.0+dfsg-1ubuntu1.3"
 
 # renovate: datasource=repology depName=ubuntu_24_04/pillow versioning=loose
-ARG PYTHON3_PIL_VERSION="10.2.0-1ubuntu1"
+ARG PYTHON3_PIL_VERSION="10.2.0-1ubuntu1.3"
 
 # renovate: datasource=repology depName=ubuntu_24_04/python3-scipy versioning=loose
 ARG PYTHON3_SCIPY_VERSION="1.11.4-6build1"
@@ -35,7 +35,7 @@ ARG PYTHON3_MATPLOTLIB_VERSION="3.6.3-1ubuntu5"
 ARG PYTHON3_POOCH_VERSION="1.8.1-1"
 
 # renovate: datasource=repology depName=ubuntu_24_04/requests versioning=loose
-ARG PYTHON3_REQUESTS_VERSION="2.31.0+dfsg-1ubuntu1.1"
+ARG PYTHON3_REQUESTS_VERSION="2.31.0+dfsg-1ubuntu1.2"
 
 # renovate: datasource=repology depName=ubuntu_24_04/python3-tqdm versioning=loose
 ARG PYTHON3_TQDM_VERSION="4.66.2-2"
